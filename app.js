@@ -62,5 +62,7 @@ app.use(function(err, req, res, next) {
   });
 });
 
+console.log("Working on new things")
+
 
 module.exports = app;
